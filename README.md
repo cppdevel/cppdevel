@@ -1,4 +1,4 @@
-🌱 I’m currently learning C++, C and Linux
+🌱 I’m currently learning C++, C, Rust and Linux
   
 <!---
 cppdevel/cppdevel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
